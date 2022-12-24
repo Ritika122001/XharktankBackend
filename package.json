@@ -1,0 +1,24 @@
+{
+  "name": "ritikakhanduri01-me_buildout_xharktank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.crio.do/COHORT_ME_BUILDOUT_XHARKTANK_ENROLL_1668411037975/ritikakhanduri01-ME_BUILDOUT_XHARKTANK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "save": "^2.9.0"
+  }
+}
